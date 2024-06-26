@@ -1,5 +1,6 @@
 Flask==3.0.3
 numpy==1.26.4
+gunicorn==20.1.0
 opencv-python==4.6.0.66
 paddleocr==2.6.0.1
 paddlepaddle==2.6.1
