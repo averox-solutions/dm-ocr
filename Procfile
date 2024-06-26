@@ -1,1 +1,1 @@
-web: gunicorn OCR:app
+web: gunicorn OCR:appy
