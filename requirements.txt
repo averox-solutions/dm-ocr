@@ -2,8 +2,4 @@ Flask==3.0.3
 gunicorn==20.1.0
 paddlepaddle==2.6.1
 paddleocr==2.6.0.1
-patch-ng==1.17.4
-requests==2.32.3
-setuptools==70.1.0
 Werkzeug==3.0.3
-wheel==0.43.0
