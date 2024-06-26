@@ -1,1 +1,1 @@
-web: python OCR.py
+web: gunicorn OCR:app
