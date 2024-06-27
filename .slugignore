@@ -1,8 +1,9 @@
-*.md
-*.txt
-tests/
-docs/
-__pycache__/
-*.pyc
-uploads/
-node_modules/
+# Exclude development files
+.git/
+.gitignore
+.idea/
+venv/
+
+# Exclude large datasets or build artifacts
+data/
+build/
