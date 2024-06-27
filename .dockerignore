@@ -1,0 +1,11 @@
+# Exclude development files
+.git
+.gitignore
+.idea
+venv
+
+# Exclude large datasets or build artifacts
+data
+build
+dist
+*.egg-info
