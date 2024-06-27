@@ -1,0 +1,9 @@
+*.md
+*.txt
+tests/
+docs/
+__pycache__/
+*.pyc
+uploads/
+venv/
+node_modules/
