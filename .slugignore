@@ -1,0 +1,8 @@
+*.md
+*.txt
+tests/
+docs/
+__pycache__/
+*.pyc
+uploads/
+node_modules/
