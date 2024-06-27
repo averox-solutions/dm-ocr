@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+
+# Ignore IDE files
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore large datasets or build artifacts
+data/
+build/
+
+# Exclude build artifacts
+dist/
+*.egg-info/
