@@ -1,9 +1,5 @@
-# Exclude development files
+node_modules/
+tests/
+docs/
 .git/
-.gitignore
-.idea/
-venv/
-
-# Exclude large datasets or build artifacts
-data/
-build/
+.vscode/
