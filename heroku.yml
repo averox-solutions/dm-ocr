@@ -1,9 +1,0 @@
-build:
-  docker:
-    web: Dockerfile
-  config:
-    apt: true
-    heroku/python: {}
-    repositories:
-      - heroku-community/apt
-      - https://github.com/heroku/heroku-buildpack-apt
